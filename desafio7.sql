@@ -1,0 +1,1 @@
+SELECT id FROM northwind.products LIMIT 10 OFFSET 40;
