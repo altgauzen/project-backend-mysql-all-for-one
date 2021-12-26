@@ -1,6 +1,17 @@
-### Termos e acordos
+# project-backend-mysql-all-for-one
 
-Ao iniciar este projeto, você concorda com as diretrizes do Código de Ética e Conduta e do Manual da Pessoa Estudante da Trybe
+## Meus Comentários
+
+Este foi um projeto individual feito na Trybe no Módulo de Back-end em que pratiquei conceitos iniciais de SQL.
+Alguns dos tópicos aprendidos:
+- Introdução a banco de dados relacionais;
+- Encontrando dados em um banco de dados;
+- Filtrando dados de uma forma específica;
+- Manipulando tabelas.
+
+Aproveitamento: 100% de aprovação pelos avaliadores da Trybe.
+
+---
 
 # Boas vindas ao repositório do projeto All For One
 
